@@ -27,3 +27,4 @@ Es el programa corre la simulació. escriu un raport.txt. Y les rutes  els escri
 Per utilitzar el programa es nesesari tenir instal·lat el python3 amb els modules, numpy, matplotlib, scipy,  math, ...
 Com entorn de desenvolupament es pot  utilitzar un el wing personal, el idle, o el que us vagi millor
 
+HOLA MANEL 
